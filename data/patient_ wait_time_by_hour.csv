@@ -1,0 +1,193 @@
+DEPARTMENT_REFERRAL,HOUR,AVG_WAIT_TIME
+Neurology,1,43.58
+Physiotherapy,9,42.24
+Neurology,23,41.26
+Renal,13,40.96
+Cardiology,2,40.13
+Physiotherapy,8,39.90
+Physiotherapy,3,39.87
+Unknown,20,39.85
+Neurology,12,39.76
+Cardiology,11,39.53
+Physiotherapy,17,39.38
+Physiotherapy,22,39.38
+Unknown,23,39.34
+Neurology,5,38.93
+Gastroenterology,18,38.90
+Unknown,22,38.90
+Renal,6,38.54
+Cardiology,22,38.51
+Orthopedics,2,38.50
+Physiotherapy,6,38.34
+Orthopedics,3,38.28
+General Practice,3,38.28
+Unknown,18,38.27
+Gastroenterology,6,38.27
+Cardiology,14,38.24
+Physiotherapy,13,38.06
+Cardiology,10,38.05
+Neurology,0,38.00
+Gastroenterology,23,37.97
+Cardiology,1,37.95
+Neurology,3,37.88
+Unknown,5,37.86
+Orthopedics,7,37.82
+Physiotherapy,0,37.78
+Gastroenterology,19,37.67
+Neurology,11,37.64
+Gastroenterology,8,37.63
+Gastroenterology,5,37.61
+Neurology,16,37.51
+Cardiology,3,37.49
+Physiotherapy,23,37.48
+Physiotherapy,7,37.39
+Physiotherapy,15,37.36
+Physiotherapy,18,37.35
+Gastroenterology,11,37.34
+Neurology,15,37.31
+General Practice,11,37.15
+Orthopedics,22,37.08
+Neurology,18,37.07
+Renal,5,37.00
+Renal,18,36.95
+General Practice,22,36.93
+Unknown,19,36.91
+Neurology,8,36.85
+Physiotherapy,10,36.85
+General Practice,10,36.84
+Gastroenterology,14,36.74
+Cardiology,17,36.73
+General Practice,21,36.72
+Orthopedics,9,36.71
+Neurology,20,36.69
+Gastroenterology,13,36.67
+Cardiology,13,36.67
+Physiotherapy,21,36.63
+Renal,21,36.59
+Cardiology,9,36.56
+Unknown,11,36.54
+Neurology,22,36.48
+Unknown,14,36.48
+Gastroenterology,21,36.39
+Unknown,9,36.37
+Unknown,7,36.35
+Renal,19,36.33
+Neurology,6,36.32
+General Practice,16,36.23
+Unknown,8,36.15
+Unknown,4,36.15
+Cardiology,4,36.13
+Gastroenterology,7,36.09
+Neurology,19,36.00
+Orthopedics,17,35.97
+General Practice,5,35.94
+Renal,4,35.91
+Cardiology,20,35.91
+Orthopedics,5,35.71
+General Practice,23,35.71
+Renal,9,35.69
+Neurology,13,35.68
+Cardiology,8,35.65
+Neurology,9,35.65
+Unknown,17,35.63
+General Practice,9,35.61
+General Practice,4,35.56
+Physiotherapy,5,35.49
+Unknown,6,35.43
+Neurology,21,35.42
+Neurology,10,35.39
+Unknown,10,35.28
+Physiotherapy,4,35.25
+Physiotherapy,16,35.23
+Renal,11,35.22
+Cardiology,16,35.18
+Orthopedics,15,35.16
+Cardiology,7,35.13
+Gastroenterology,10,35.07
+General Practice,13,35.06
+Physiotherapy,2,35.05
+Orthopedics,14,34.92
+Cardiology,19,34.90
+Neurology,2,34.85
+Gastroenterology,2,34.76
+Unknown,3,34.74
+General Practice,15,34.66
+General Practice,6,34.63
+Orthopedics,4,34.61
+Physiotherapy,20,34.60
+Unknown,2,34.60
+Renal,16,34.58
+Orthopedics,11,34.58
+Cardiology,12,34.51
+Renal,14,34.48
+Neurology,7,34.31
+Unknown,15,34.28
+General Practice,12,34.23
+Orthopedics,20,34.19
+Orthopedics,8,34.18
+Renal,0,34.14
+Unknown,13,34.06
+General Practice,7,34.04
+Cardiology,0,33.96
+Orthopedics,23,33.94
+General Practice,17,33.93
+Gastroenterology,1,33.92
+Cardiology,23,33.80
+Orthopedics,21,33.79
+General Practice,20,33.75
+Physiotherapy,11,33.62
+Gastroenterology,20,33.59
+Neurology,17,33.55
+General Practice,8,33.55
+Gastroenterology,22,33.49
+Gastroenterology,12,33.48
+Gastroenterology,3,33.48
+Orthopedics,10,33.44
+Orthopedics,0,33.41
+General Practice,19,33.39
+General Practice,2,33.32
+Orthopedics,16,33.29
+Renal,3,33.24
+General Practice,0,33.22
+Gastroenterology,0,33.21
+Orthopedics,13,33.18
+Orthopedics,18,33.17
+Physiotherapy,1,33.16
+Renal,23,33.14
+Unknown,12,33.07
+Gastroenterology,4,33.00
+Physiotherapy,12,32.90
+General Practice,14,32.87
+Renal,10,32.86
+Orthopedics,12,32.74
+Orthopedics,6,32.70
+Cardiology,18,32.67
+Orthopedics,1,32.66
+Neurology,14,32.57
+Gastroenterology,9,32.43
+Unknown,0,32.35
+Renal,20,32.31
+General Practice,18,32.30
+Cardiology,6,32.26
+Gastroenterology,17,32.24
+Neurology,4,32.20
+General Practice,1,32.17
+Physiotherapy,14,32.14
+Orthopedics,19,32.10
+Renal,12,32.00
+Renal,1,31.96
+Cardiology,5,31.86
+Cardiology,15,31.72
+Renal,8,31.63
+Unknown,16,31.59
+Unknown,21,31.40
+Gastroenterology,15,31.33
+Cardiology,21,31.27
+Unknown,1,31.24
+Physiotherapy,19,31.00
+Renal,2,30.33
+Gastroenterology,16,30.14
+Renal,15,29.19
+Renal,22,29.08
+Renal,7,28.81
+Renal,17,28.70
