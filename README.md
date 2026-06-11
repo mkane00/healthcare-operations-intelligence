@@ -130,9 +130,12 @@ Patient satisfaction varies by department, suggesting targeted improvement oppor
 ## 👩‍💻 Author
 
 **Mary Kane**
+
 Operations & Data Analyst
+
 Bilingual (English–Spanish)
 
 🔗 GitHub: https://github.com/mkane00
+
 🔗 Tableau Public: https://public.tableau.com/authoring/HealthcareOperationsDashboard_17810307133930/Dashboard1#1
 
