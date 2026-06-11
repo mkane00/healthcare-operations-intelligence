@@ -109,11 +109,11 @@ Patient satisfaction varies by department, suggesting targeted improvement oppor
 
 ### Wait Time Analysis
 
-![Wait Time Dashboard](images/wait_time_analysis.png)
+![Wait Time Dashboard](images/average_wait_time_by_department.png)
 
 ### Patient Satisfaction
 
-![Patient Satisfaction Dashboard](images/patient_satisfaction.png)
+![Patient Satisfaction Dashboard](images/patient_satisfaction_by_department.png)
 
 ---
 
