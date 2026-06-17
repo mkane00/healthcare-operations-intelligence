@@ -1,5 +1,5 @@
 # Healthcare Operations Intelligence
-https://public.tableau.com/authoring/HealthcareOperationsDashboard_17810307133930/Dashboard1#1
+[(https://public.tableau.com/shared/J4W8R5B7T?:display_count=n&:origin=viz_share_link)]
 
 ## 📌 Project Overview
 
