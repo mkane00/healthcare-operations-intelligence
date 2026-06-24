@@ -137,5 +137,5 @@ Bilingual (English–Spanish)
 
 🔗 GitHub: https://github.com/mkane00
 
-🔗 Tableau Public: https://public.tableau.com/authoring/HealthcareOperationsDashboard_17810307133930/Dashboard1#1
+🔗 Tableau Public: https://public.tableau.com/shared/N3S88YNTC?:display_count=n&:origin=viz_share_link 
 
