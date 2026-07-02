@@ -131,8 +131,6 @@ Patient satisfaction varies by department, suggesting targeted improvement oppor
 
 **Mary Kane**
 
-https://github.com/mkane00
-
 Operations & Data Analyst
 
 🔗 GitHub: https://github.com/mkane00
